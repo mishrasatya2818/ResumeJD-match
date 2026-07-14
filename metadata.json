@@ -1,0 +1,6 @@
+{
+  "name": "Resume vs JD Matcher",
+  "description": "An interactive tool to compare your resume with any job description, analyze skill gaps, calculate matching scores, and receive actionable tips to update your resume.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
